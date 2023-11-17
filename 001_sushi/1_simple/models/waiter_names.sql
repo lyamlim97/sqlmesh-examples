@@ -1,4 +1,4 @@
--- Seed data containing water names.
+/* Seed data containing water names. */
 MODEL (
   name sushisimple.waiter_names,
   kind SEED (
